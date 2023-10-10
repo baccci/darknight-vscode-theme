@@ -4,6 +4,10 @@
   "description": "A vscode color theme dark as night.",
   "version": "0.0.1",
   "publisher": "salvajs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baccci/darknight-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -18,5 +22,11 @@
         "path": "./themes/darknight-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "salvajs",
+    "darknight dark theme"
+  ]
 }

@@ -1,16 +1,7 @@
-# darknight README
+# darknight VS CODE theme 
 
-## Working with Markdown
+## Just a simple dark theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A theme to code in the darkest hours of nights 🌃. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Inspired in [batsignal](https://github.com/natew/batsignal) by [natew](https://github.com/natew) 
