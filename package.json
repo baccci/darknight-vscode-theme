@@ -1,0 +1,22 @@
+{
+  "name": "darknight",
+  "displayName": "darknight",
+  "description": "A vscode color theme dark as night.",
+  "version": "0.0.1",
+  "publisher": "salvajs",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darknight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darknight-color-theme.json"
+      }
+    ]
+  }
+}
